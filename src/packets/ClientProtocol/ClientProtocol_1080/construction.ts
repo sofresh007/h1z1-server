@@ -54,7 +54,6 @@ export const constructionPackets: any = [
     0xca0500,
     {
       fields: [
-        { name: "unknownDword1", type: "uint32", defaultValue: 0 },
         // not finished, read func is aids
       ],
     },
